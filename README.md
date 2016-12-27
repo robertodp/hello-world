@@ -1,2 +1,4 @@
 # hello-world
-sample GitHub repository
+My sample GitHub repository
+
+Getting to know GitHub for a private project
